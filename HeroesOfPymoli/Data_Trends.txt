@@ -1,0 +1,7 @@
+Observable Trends
+
+1. Players of the Male gender make up 84.03% of the total population of players; however, players of the Female and Other / Non-Disclosed genders spend more on average per purchase.
+
+2. Players in the 20-24 age group make up close to half of the player population at 44.79%; however, players that are in the less than 10 (<10) and 35-39 age groups spend more on average per purchase.
+
+3. Two (Item IDs 108 and 19) of the top 5 most popular items are not amongst the top 5 most profitable.
